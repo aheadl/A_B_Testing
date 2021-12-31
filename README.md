@@ -4,3 +4,5 @@ This project explores exercises that gives a deeper understanding on A/B testing
 <li> Perhaps run the experiment longer to make their decision. </li>
 
 It incorporates exercises in Probability, A/B Testing and Regression
+</br>
+Data for this project are consumed from the csv files
